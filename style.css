@@ -69,3 +69,25 @@ body {
     width: 25%;
     padding: 15px;
 }
+
+p {
+    font-size: xx-large;
+    color: #fff;
+}
+
+.row {
+    background-color: #353535;
+}
+
+h2 {
+    color: #f3971b;
+}
+
+.heading h2 {
+    color: #333;
+}
+
+span {
+    color: #f3971b;
+    text-transform: uppercase;
+}

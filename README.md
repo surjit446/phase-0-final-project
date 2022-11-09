@@ -121,3 +121,18 @@ version control habits as a favor to your future self!
 Once you've finished building your website, make sure to push it all up to
 GitHub. If you followed our advice and set up GitHub Pages first, you've now
 successfully built _and_ published a website! Fantastic work!
+
+Readme file for the phase0 final project
+
+1) In this project we create two files index.html and style.css.
+
+2)In html I created a personal website.
+
+ 3)In this website  I'm going to speak about my atttributes,my certfication,my experience and how to contact me.
+
+4)In index.html I've provided all my information to create a different type of navigation bar and I have also downloaded some images too.
+
+5)Styles such as adding a backround color,font size or font color are created by CSS.
+
+6)If you open it in the live server,you can see the output and you can inspect the commands as well.
+
